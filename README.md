@@ -1,2 +1,5 @@
-# mcts
-Monte Carlo Tree Search
+# Monte Carlo Tree Search
+
+Premier essai.
+
+
